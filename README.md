@@ -1,4 +1,4 @@
-# Student Perfoemance Prediction using ML
+# Student Performance Prediction using ML
 
 Naive Bayes
 ![exceed-naivebayes-output-graph](https://github.com/ARahman24/StudentPerfoemancePrediction/assets/117717123/fb08614e-6510-45d8-b770-33bbb66b80ab)
